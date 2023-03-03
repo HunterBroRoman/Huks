@@ -1,4 +1,5 @@
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes, NavLink } from "react-router-dom";
+// import styled from "styled-components";
 import { About } from "../pages/About";
 import { Home } from "../pages/Home";
 import { ProductDetails } from "../pages/ProductDetails";
@@ -8,6 +9,13 @@ import { Team } from "./Team";
 import { Reviews } from "./Reviews";
 import { Container, Header, Logo, Link } from "./App.styled";
 
+// const StyledLink = styled(NavLink)`
+//   color: black;
+
+//   &.active {
+//     color: orange;
+//   }
+// `;
 export const App = () => {
   return (
     <Container>
