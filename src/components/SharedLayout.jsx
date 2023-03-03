@@ -1,7 +1,7 @@
 import { Outlet } from "react-router-dom";
 import { Container, Header, Logo, Link } from './SharedLayout.styled';
 
-export const SharedLayot = () => {
+export const SharedLayout = () => {
     return (
       <Container>
         <Header>
