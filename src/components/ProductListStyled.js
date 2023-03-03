@@ -3,11 +3,11 @@ import styled from "styled-components";
 export const Container = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, 200px);
-  gap: 20px;
+  gap: 16px;
 `;
 
 export const CardWrapper = styled.div`
-  border: 2px solid red;
+  border: 1px solid black;
   border-radius: 4px;
 
   > a {
