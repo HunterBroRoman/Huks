@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Huks/static/css/main.7c4f8962.css",
-    "main.js": "/Huks/static/js/main.8e7ac66b.js",
+    "main.js": "/Huks/static/js/main.1eea4406.js",
     "index.html": "/Huks/index.html",
     "main.7c4f8962.css.map": "/Huks/static/css/main.7c4f8962.css.map",
-    "main.8e7ac66b.js.map": "/Huks/static/js/main.8e7ac66b.js.map"
+    "main.1eea4406.js.map": "/Huks/static/js/main.1eea4406.js.map"
   },
   "entrypoints": [
     "static/css/main.7c4f8962.css",
-    "static/js/main.8e7ac66b.js"
+    "static/js/main.1eea4406.js"
   ]
 }
